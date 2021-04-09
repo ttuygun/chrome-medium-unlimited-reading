@@ -1,5 +1,11 @@
 # Medium.com Unlimited Reading chrome extension
 
+`yarn install && yarn run`
+
+If you don't install yarn and npm (Mac)
+
+`brew install npm && npm install --global yarn`
+
 ## Removes the article read limit of member-only content. 
 
 ![users count](https://img.shields.io/chrome-web-store/users/keckgflodjmhejpbhfbfoioonoeeckng.svg)
